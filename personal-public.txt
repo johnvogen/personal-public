@@ -1,3 +1,4 @@
 Personal public content
 stage/commit/merge test
 stage commit merge test using git cli
+stage commit push of cli to personal
